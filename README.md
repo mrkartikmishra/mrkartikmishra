@@ -6,7 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on @LTIMindtree<br><br>🌱 I’m currently working as a Full Stack developer, creating different applications<br><br>
+🔭 👋 Full Stack JavaScript Developer | 🌐 Blockchain & Web3 Enthusiast | 🚀 Tech Explorer
+
+Passionate about pushing the boundaries of web development, I'm a Full Stack JavaScript Developer with a strong fascination for blockchain technology and the decentralized world of Web3. Always eager to learn and embrace new technologies, my journey in the digital realm is a constant adventure. My GitHub is a reflection of my coding explorations and innovative solutions. Join me on this exciting tech voyage, where curiosity meets code, and let's build the future together! 🔗💡 #WebDev #Blockchain #Web3 #JavaScript<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kartik-mishra-ab4430126) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/kartikmishra44) 
