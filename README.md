@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack blockchain developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br><br>
 # 💫 About Me:
 🔭 👋 Full Stack JavaScript Developer | 🌐 Blockchain & Web3 Enthusiast | 🚀 Tech Explorer
 
