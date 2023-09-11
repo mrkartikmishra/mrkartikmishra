@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header.png)
 
 <h1 align="center">Hi 👋, I'm Kartik Mishra</h1>
 <h3 align="center">Full-Stack blockchain developer</h3>
